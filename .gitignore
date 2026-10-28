@@ -7,4 +7,5 @@ mlruns/
 mlartifacts/
 *.db
 .env
+._*
 .DS_Store
