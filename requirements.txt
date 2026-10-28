@@ -1,0 +1,8 @@
+scikit-learn==1.6.1
+pandas
+joblib
+fastapi
+uvicorn
+pytest
+httpx
+mlflow
